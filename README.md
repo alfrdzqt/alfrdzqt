@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is SYERA AL-FARIDZI and I'm a Software Development, from   Indonesia</h2>
+<h2 align="left">Hi 👋, My name is SYERA AL-FARIDZI and I'm a Software Development, from   Samarinda</h2>
 
 ###
 
